@@ -44,7 +44,10 @@ Tools:
 Git
 Contact Info
 Feel free to connect with me on social media: 
-Email:adioolamilekan225@gmail.com     lekanadio30@gmail.com                                                       
+Email:adioolamilekan225@gmail.com                                                                lekanadio30@gmail.com       
+
+
+Twitter:https://x.com/Techton10
 
 
 
@@ -85,5 +88,3 @@ Email:adioolamilekan225@gmail.com     lekanadio30@gmail.com
 
 
 
-
-Twitter:https://x.com/Techton10

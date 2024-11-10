@@ -1,4 +1,7 @@
 
+![header](https://github.com/user-attachments/assets/ada8861c-0b46-4abf-b024-b887e9f66905)
+
+
 Hello! I'm King Kin, a passionate developer with a strong interest in creating innovative software solutions. My journey in programming began with a fascination for technology and has grown into a career where I enjoy solving complex problems and building applications that make a difference. I have a keen interest in Backend and also web apps development and enjoy exploring new technologies.
 
 Skills & Technologies

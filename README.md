@@ -45,6 +45,47 @@ Tools:
 
 Git
 Contact Info
-Feel free to connect with me on social media:
-Email:adioolamilekan225@gmail.com     lekanadio30@gmail.com
+Feel free to connect with me on social media: 
+Email:adioolamilekan225@gmail.com     lekanadio30@gmail.com                                                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=King-kin5&mode=weekly)](https://git.io/streak-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Twitter:https://x.com/Techton10

@@ -23,7 +23,8 @@ CSS ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColo
 
 
 
-Java ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+Java  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 
 Python ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

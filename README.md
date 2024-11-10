@@ -5,6 +5,11 @@ Skills & Technologies
 Here are some of the primary programming languages, tools, and frameworks I work with:
 
 Languages:
+
+
+
+
+
 Html  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
 

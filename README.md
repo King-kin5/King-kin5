@@ -1,6 +1,4 @@
-# King-kin5-
-README Content
-Introduction
+# King-kin5
 Hello! I'm King Kin, a passionate developer with a strong interest in creating innovative software solutions. My journey in programming began with a fascination for technology and has grown into a career where I enjoy solving complex problems and building applications that make a difference. I have a keen interest in Backend and also web apps development and enjoy exploring new technologies.
 
 Skills & Technologies
